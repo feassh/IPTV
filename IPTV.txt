@@ -816,6 +816,22 @@ CCTV4K,http://r.jdshipin.com/krMB5
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 咪咕体育4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+咪咕足球,http://39.134.65.149/PLTV/88888888/224/3221225895/index.m3u8
+精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+武搏世界,http://39.134.65.208/PLTV/88888888/224/3221225547/index.m3u8
+武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+NBA篮球,http://39.134.65.149/PLTV/88888888/224/3221225897/index.m3u8
+富士国际赛车场,http://111.62.156.15/tx.flv.huya.com/src/1199605222659-1199605222659-5623602866238259200-2399210568774-10057-A-0-1.flv?wsSecret=c477f51aef4413cd4a3f184ae8bd3cb4&wsTime=6283af14&u=0&seqid=16527108046100522&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&t=102
+4K体育测试,http://39.134.65.149/PLTV/88888888/224/3221225655/index.m3u8
+咪咕体育,http://39.134.65.149/PLTV/88888888/224/3221225611/index.m3u8
+咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+瑜伽健身,http://39.134.65.208/PLTV/88888888/224/3221225741/index.m3u8
+北京体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 
 影视,#genre#
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
