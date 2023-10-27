@@ -723,7 +723,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 肇庆生活服务.576,http://www.namewee.xyz/gudou.php?id=zhaoqingertao_1500
 怀集综合.576,http://www.namewee.xyz/gudou.php?id=2805_2000
 
-香港,#genre#
+港澳,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
