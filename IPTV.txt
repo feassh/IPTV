@@ -650,6 +650,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 广东影视,http://www.namewee.xyz/gudou.php?id=1458
 嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459
 广东少儿,http://www.namewee.xyz/gudou.php?id=1457
+南国都市,https://aplays.gztv.com/sec/shenghuos.m3u8?auth_key
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 广东经济科教,http://www.namewee.xyz/gudou.php?id=GDjingjikejiaoHD_7000
 大湾区卫视,http://www.namewee.xyz/gudou.php?id=1456
