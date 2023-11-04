@@ -653,6 +653,10 @@ CCTV4K,http://r.jdshipin.com/krMB5
 
 广东,#genre#
 广东卫视,http://www.namewee.xyz/gudou.php?id=1401
+广东珠江,https://php.17186.eu.org/gdtv/gdzj.m3u8
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+广东珠江,http://synology.942dn.cn:4022/udp/239.77.0.114:5146
+广东珠江,http://synology.942dn.cn:4022/udp/239.77.0.1:5146
 广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
 广东体育,http://www.namewee.xyz/gudou.php?id=1413
 广东新闻,http://www.namewee.xyz/gudou.php?id=1454
