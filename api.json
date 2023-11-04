@@ -20,7 +20,8 @@
 
 
 
-	
+	{"key":"好戏影视","name":"好戏影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/IPT-V/IPTV/main/XBPQ/好戏影视.json"},
+		
 	{"key":"不开心","name":"不开心","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/IPT-V/IPTV/main/JS/drpy.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/IPT-V/IPTV/main/JS/不开心.js"},
 	{"key":"追剧迷","name":"追剧迷","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/IPT-V/IPTV/main/JS/drpy.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/IPT-V/IPTV/main/JS/追剧迷.js"},
 	{"key":"看了么","name":"看了么","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/IPT-V/IPTV/main/JS/drpy.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/IPT-V/IPTV/main/JS/看了么.js"},
