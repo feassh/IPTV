@@ -37,7 +37,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "影視天下第一",
+        "token": "d1071e09e8fc477591671f52cd3ea952",
         "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
