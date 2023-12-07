@@ -750,10 +750,10 @@ HZTV-2高清,http://synology.942dn.cn:4022/udp/239.77.1.233:5146
 
 
 湖南地方台,#genre#
-湖南经视，http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9Njc3OTc1ZWNmOGYxNWMyODlhZGJmYzgxZWYxOWJiY2YmZXM9MTcwMTk3Njc0NSZ1dWlkPTVjMTRmZDY4NTllZGIxMDFjMzcwOTZjOGU0OGQwYjNmLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPWFsX3Bob25lMw,,/HNJSMPP360.m3u8
+湖南经视,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9Njc3OTc1ZWNmOGYxNWMyODlhZGJmYzgxZWYxOWJiY2YmZXM9MTcwMTk3Njc0NSZ1dWlkPTVjMTRmZDY4NTllZGIxMDFjMzcwOTZjOGU0OGQwYjNmLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPWFsX3Bob25lMw,,/HNJSMPP360.m3u8
 湖南经视,http://zteres.sn.chinamobile.com:6060/000000001000/6306119848317438256/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=6306119848317438256
-湖南经视，http://php.jdshipin.com:8880/iptv.php?id=hnjs
-湖南都市，http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9ZjhmYjk4NWRkZDFhNjFmNzlkODBjOGIyYmY4YzI2ODcmZXM9MTcwMTk3NjkyMiZ1dWlkPTJiNTkwZmNkMmY3MzJiZTFkZjBmOWNmZjZhZjVmYjgzLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNDSMPP360.m3u8
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+湖南都市,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9ZjhmYjk4NWRkZDFhNjFmNzlkODBjOGIyYmY4YzI2ODcmZXM9MTcwMTk3NjkyMiZ1dWlkPTJiNTkwZmNkMmY3MzJiZTFkZjBmOWNmZjZhZjVmYjgzLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNDSMPP360.m3u8
 湖南都市,http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=4682579636905393407
 湖南都市,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
 湖南都市,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
@@ -762,21 +762,21 @@ HZTV-2高清,http://synology.942dn.cn:4022/udp/239.77.1.233:5146
 湖南都市,http://222.240.82.92:9901/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
 湖南都市,http://175.0.95.236:9000/rtp/239.76.252.117:9000
 湖南都市,http://223.151.51.27:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南爱晚，http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9ODM1NDdkZTI5ZjEzOTg2NGIwMGVhMWRlYWQ1OGM3YjEmZXM9MTcwMTk3NzQ2MiZ1dWlkPTkyNGJlNDgyYzU4OWUxZWE5ZTVlYThiYzc1NTJmN2VhLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNGGMPP360.m3u8
+湖南爱晚,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9ODM1NDdkZTI5ZjEzOTg2NGIwMGVhMWRlYWQ1OGM3YjEmZXM9MTcwMTk3NzQ2MiZ1dWlkPTkyNGJlNDgyYzU4OWUxZWE5ZTVlYThiYzc1NTJmN2VhLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNGGMPP360.m3u8
 湖南爱晚，http://php.jdshipin.com:8880/iptv.php?id=hngg
-湖南电视剧，http://116.162.157.58/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9Mjg1YzkxNTcyYWY0ZjVmMmQwMDIzYjgyMjQxNjYxMTYmaD0xMTYuMTYyLjE1Ny41OCZ1dWlkPTQ3NGIwMDgwMmM0OTMxODBhZWY1ZDY4Y2Y0NTBkZWE4LWRjZjhhNzlkJnY9MiZhcz0wJmVzPTE3MDE5NzcxODg,/HNDSJMPP360.m3u8
+湖南电视剧,http://116.162.157.58/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9Mjg1YzkxNTcyYWY0ZjVmMmQwMDIzYjgyMjQxNjYxMTYmaD0xMTYuMTYyLjE1Ny41OCZ1dWlkPTQ3NGIwMDgwMmM0OTMxODBhZWY1ZDY4Y2Y0NTBkZWE4LWRjZjhhNzlkJnY9MiZhcz0wJmVzPTE3MDE5NzcxODg,/HNDSJMPP360.m3u8
 湖南电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=8765482907954673867
-湖南电视剧，http://php.jdshipin.com:8880/iptv.php?id=hndsj
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 湖南电影,http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=7884242846753128038
-湖南电影，http://tcapp.cdn.hunancatv.com/live/XP_hndyHD.m3u8?auth_key=1701952159-25f7327f6111429485ac9b0ad635dc2f-CF482154CA598C78ADB6A928BAD82114OD-d280ab5cc89e3a5f118eea6974e4895b&shit=3CYUi0gSKNK4LU%2B%2BwI7otsPolSNcoI7z94Sjyxrw6TquASN3YzuhUA4gy2cfjPjO
-湖南电影，http://php.jdshipin.com:8880/iptv.php?id=hndy
-湖南娱乐，http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9YWM4MWU3NGZmYzk5MDk3MzkzMWJmYjk3MTUxNDQwYzImZXM9MTcwMTk3NzA1NyZ1dWlkPTY3ODEwMTkyOWQxZTRlMTcyMTM2NWNjMzg5MWQ1ZWQwLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNYLMPP360.m3u8
+湖南电影,http://tcapp.cdn.hunancatv.com/live/XP_hndyHD.m3u8?auth_key=1701952159-25f7327f6111429485ac9b0ad635dc2f-CF482154CA598C78ADB6A928BAD82114OD-d280ab5cc89e3a5f118eea6974e4895b&shit=3CYUi0gSKNK4LU%2B%2BwI7otsPolSNcoI7z94Sjyxrw6TquASN3YzuhUA4gy2cfjPjO
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+湖南娱乐,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9YWM4MWU3NGZmYzk5MDk3MzkzMWJmYjk3MTUxNDQwYzImZXM9MTcwMTk3NzA1NyZ1dWlkPTY3ODEwMTkyOWQxZTRlMTcyMTM2NWNjMzg5MWQ1ZWQwLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNYLMPP360.m3u8
 湖南娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&amp;Contentid=6427893650335440392&amp;livemode=1&amp;stbId=3
-湖南娱乐，http://php.jdshipin.com:8880/iptv.php?id=hnyl
-湖南国际，http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9YTVmNzQ0YjJhMWE0NTc1MThhYTM0N2M0ZWFlMWJlNTImZXM9MTcwMTk3NzMxNCZ1dWlkPTkzN2U4ZmU5YWZkMTY1MzY1NTE2NWQxMjVmY2Y0ZGIwLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNGJMPP360.m3u8
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
+湖南国际,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMC4yNDguMTY3LjE1NyZxaWQ9JnM9YTVmNzQ0YjJhMWE0NTc1MThhYTM0N2M0ZWFlMWJlNTImZXM9MTcwMTk3NzMxNCZ1dWlkPTkzN2U4ZmU5YWZkMTY1MzY1NTE2NWQxMjVmY2Y0ZGIwLWRjZjhhNzlkJnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNGJMPP360.m3u8
 湖南国际,http://zteres.sn.chinamobile.com:6060/000000001000/5015828848322021526/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=5015828848322021526
-湖南国际，http://php.jdshipin.com:8880/iptv.php?id=hngj
-湖南教育，http://php.jdshipin.com:8880/iptv.php?id=hnjy
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湖南教育,http://php.jdshipin.com:8880/iptv.php?id=hnjy
 
 湖南地区组播,#genre#
 湖南卫视,http://175.0.95.236:9000/rtp/239.76.253.100:9000
