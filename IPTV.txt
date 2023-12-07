@@ -745,8 +745,12 @@ CCTV4K,http://r.jdshipin.com/krMB5
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南都市,http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=4682579636905393407
 湖南都市,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
+湖南都市,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
+湖南都市,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
 湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南都市,http://222.240.82.92:9901/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
+湖南都市,http://223.151.51.27:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=8765482907954673867
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 湖南电影,http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&amp;stbId=test&amp;channel-id=hnbblive&amp;Contentid=7884242846753128038
